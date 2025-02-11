@@ -17,3 +17,6 @@
     "stripe": "^17.6.0"
   }
 }
+"scripts": {
+  "start": "node webhook.js"
+}
